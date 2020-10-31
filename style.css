@@ -1,5 +1,19 @@
-.responsive {
+.img-fluid {
     width: 100%;
-    max-width: 400px;
+    max-width: 300px;
     height: auto;
+}
+
+#wrapper-image{
+    width: 100%;
+    max-width: 300px
+}
+
+.div {
+    word-wrap: break-word;
+}
+
+.style {
+    background-image: url("my-image.png");
+  background-size: cover; 
 }
