@@ -6,7 +6,8 @@
 
 #wrapper-image{
     width: 100%;
-    max-width: 300px
+    max-width: 300px;
+    float: left;
 }
 
 .div {
@@ -17,3 +18,4 @@
     background-image: url("img/lamp.jpg");
   background-size: cover; 
 }
+
